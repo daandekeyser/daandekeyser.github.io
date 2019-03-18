@@ -3406,7 +3406,7 @@ body {
   background-color: #ffffff;
 }
 .cid-r9PyZRXK1D .mbr-section-subtitle {
-  color: #767676;
+  color: #232323;
 }
 .cid-r9Pz0IkA1C {
   padding-top: 60px;
@@ -3416,6 +3416,10 @@ body {
 .cid-r9Pz0IkA1C .mbr-text,
 .cid-r9Pz0IkA1C blockquote {
   color: #767676;
+}
+.cid-r9Pz0IkA1C .mbr-text {
+  text-align: center;
+  color: #232323;
 }
 .cid-r9PyXuIDba {
   background: #ffffff;
