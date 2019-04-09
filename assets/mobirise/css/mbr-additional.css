@@ -1780,7 +1780,12 @@ body {
   text-align: center;
 }
 .cid-r5dc7wHPU1 SPAN {
-  color: #ffffff;
+  color: #ff0000;
+}
+.cid-r5dc7wHPU1 .mbr-text,
+.cid-r5dc7wHPU1 .mbr-section-btn {
+  text-align: center;
+  color: #ff0000;
 }
 .cid-rauLHGntjL .navbar {
   background: #ffffff;
@@ -2187,6 +2192,9 @@ body {
 .cid-r9PB0upwYm .mbr-section-subtitle {
   color: #767676;
 }
+.cid-r9PB0upwYm H2 {
+  color: #ff0000;
+}
 .cid-r9PSuCEbHp {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2194,6 +2202,9 @@ body {
 }
 .cid-r9PSuCEbHp .mbr-section-subtitle {
   color: #767676;
+}
+.cid-r9PSuCEbHp H2 {
+  color: #ff0000;
 }
 .cid-r9PB28LBsr {
   padding-top: 60px;
@@ -2255,6 +2266,9 @@ body {
 .cid-r9PSv2xObD .mbr-section-subtitle {
   color: #767676;
 }
+.cid-r9PSv2xObD H2 {
+  color: #ff0000;
+}
 .cid-r9PC9jt8fG {
   padding-top: 45px;
   padding-bottom: 45px;
@@ -2312,6 +2326,9 @@ body {
 }
 .cid-raTrGhhgMs .mbr-section-subtitle {
   color: #767676;
+}
+.cid-raTrGhhgMs H2 {
+  color: #ff0000;
 }
 .cid-raTror6IZE {
   padding-top: 60px;
@@ -2474,6 +2491,9 @@ body {
 }
 .cid-raTsqFTc7Z .mbr-section-subtitle {
   color: #767676;
+}
+.cid-raTsqFTc7Z H2 {
+  color: #ff0000;
 }
 .cid-raTss94K1y {
   padding-top: 60px;
@@ -2739,6 +2759,9 @@ body {
 .cid-raTtE6Axbm .mbr-section-subtitle {
   color: #767676;
 }
+.cid-raTtE6Axbm H2 {
+  color: #ff0000;
+}
 .cid-raTsxwgWFq {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -2848,6 +2871,9 @@ body {
 }
 .cid-raTur1lomH .mbr-section-subtitle {
   color: #767676;
+}
+.cid-raTur1lomH H2 {
+  color: #ff0000;
 }
 .cid-raTuuiFdc6 {
   padding-top: 60px;
@@ -3402,7 +3428,7 @@ body {
 }
 .cid-r9PyZRXK1D {
   padding-top: 90px;
-  padding-bottom: 60px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
 .cid-r9PyZRXK1D .mbr-section-subtitle {
@@ -3870,6 +3896,17 @@ body {
   display: block;
   text-align: center;
 }
+.cid-r9PGaeXUxr {
+  padding-top: 135px;
+  padding-bottom: 135px;
+  background-image: url("../../../assets/images/minima-docta-poster-114.png");
+}
+.cid-r9PGaeXUxr H1 {
+  color: #232323;
+}
+.cid-r9PGaeXUxr SPAN {
+  color: #ff0000;
+}
 .cid-rauLsutyor .navbar {
   background: #ffffff;
   transition: none;
@@ -4273,20 +4310,15 @@ body {
   background-image: url("../../../assets/images/dagopdracht-atelier-9-voorpwerpen.jpg");
 }
 .cid-r9PFslu9Ri H1 {
-  color: #232323;
+  color: #ff0000;
 }
 .cid-r9PG9QZ7sJ {
   padding-top: 135px;
   padding-bottom: 135px;
   background-image: url("../../../assets/images/sandwich-soccer-1.jpg");
 }
-.cid-r9PGaeXUxr {
-  padding-top: 135px;
-  padding-bottom: 135px;
-  background-image: url("../../../assets/images/minima-docta-poster-114.png");
-}
-.cid-r9PGaeXUxr H1 {
-  color: #232323;
+.cid-r9PG9QZ7sJ H1 {
+  color: #ff0000;
 }
 .cid-rauM7kXn2K .navbar {
   background: #ffffff;
@@ -4693,6 +4725,9 @@ body {
 .cid-r9PCO4m2n6 .mbr-section-subtitle {
   color: #767676;
 }
+.cid-r9PCO4m2n6 H2 {
+  color: #ff0000;
+}
 .cid-r9PRDSi0FR {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -4701,10 +4736,13 @@ body {
 .cid-r9PRDSi0FR .mbr-section-subtitle {
   color: #767676;
 }
+.cid-r9PRDSi0FR H2 {
+  color: #ff0000;
+}
 .cid-r9PCO4BNH1 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: #ffffff;
+  background: #232323;
 }
 .cid-r9PCO4BNH1 .media-container-row {
   margin: 0 auto;
@@ -4806,7 +4844,7 @@ body {
 .cid-r9PQNgzLO4 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: #ffffff;
+  background: #232323;
 }
 .cid-r9PQNgzLO4 .media-container-row {
   margin: 0 auto;
@@ -4858,15 +4896,18 @@ body {
 .cid-r9PRCMVJyp {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #fddde9;
 }
 .cid-r9PRCMVJyp .mbr-section-subtitle {
   color: #767676;
 }
+.cid-r9PRCMVJyp H2 {
+  color: #ff0000;
+}
 .cid-r9PQPAgxrj {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: #ffffff;
+  background: #fddde9;
 }
 .cid-r9PQPAgxrj .images-container.container-fluid {
   padding: 0;
@@ -4916,7 +4957,7 @@ body {
 .cid-r9PRdRWVn2 {
   padding-top: 120px;
   padding-bottom: 120px;
-  background: #ffffff;
+  background: #fddde9;
 }
 .cid-r9PRdRWVn2 .media-container-row {
   margin: 0 auto;
@@ -4966,9 +5007,9 @@ body {
   }
 }
 .cid-r9PRleEJEQ {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background: #ffffff;
+  padding-top: 120px;
+  padding-bottom: 120px;
+  background: #fddde9;
 }
 .cid-r9PRleEJEQ .images-container.container-fluid {
   padding: 0;
@@ -5022,6 +5063,9 @@ body {
 }
 .cid-r9PRRlEBzL .mbr-section-subtitle {
   color: #767676;
+}
+.cid-r9PRRlEBzL H2 {
+  color: #ff0000;
 }
 .cid-r9PRmTyZHY {
   padding-top: 60px;
@@ -5084,7 +5128,7 @@ body {
   color: #ffffff;
 }
 .cid-raTxbmf4Bj H2 {
-  color: #ffffff;
+  color: #ff0000;
 }
 .cid-raTx7mdGfh {
   padding-top: 45px;
@@ -5699,18 +5743,24 @@ body {
 .cid-r9PCYezzba .mbr-section-subtitle {
   color: #767676;
 }
+.cid-r9PCYezzba H2 {
+  color: #ff0000;
+}
 .cid-r9PSdj3r8h {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #465052;
 }
 .cid-r9PSdj3r8h .mbr-section-subtitle {
   color: #767676;
 }
+.cid-r9PSdj3r8h H2 {
+  color: #ff0000;
+}
 .cid-r9PCYeXZAG {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: #ffffff;
+  background: #465052;
 }
 .cid-r9PCYeXZAG .media-container-row {
   margin: 0 auto;
@@ -5762,7 +5812,7 @@ body {
 .cid-r9PCYfbv5F {
   padding-top: 45px;
   padding-bottom: 45px;
-  background: #ffffff;
+  background: #465052;
 }
 .cid-r9PCYfbv5F .images-container.container-fluid {
   padding: 0;
@@ -5808,6 +5858,17 @@ body {
     padding: 0 0 2rem 0 !important;
     -webkit-flex-basis: initial !important;
   }
+}
+.cid-rn9utIrPgd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #232323;
+}
+.cid-rn9utIrPgd .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rn9utIrPgd H2 {
+  color: #ff0000;
 }
 .cid-rilrr0wiIC {
   padding-top: 45px;
